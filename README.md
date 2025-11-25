@@ -1,12 +1,13 @@
 # Hi, I'm SharkBlocks00
 
 I build backend systems in Java, Spring Boot & Go.
+
 ---
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SharkBlocks00&show_icons=true&theme=tokyonight&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SharkBlocks00&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharkBlocks00&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SharkBlocks00&layout=compact&theme=tokyonight)
 
 ---
 
@@ -30,12 +31,12 @@ I build backend systems in Java, Spring Boot & Go.
 ---
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=SharkBlocks00&theme=tokyonight&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SharkBlocks00&theme=tokyonight&column=6)
 
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/SharkBlocks00/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/SharkBlocks00/SharkBlocks00/output/github-contribution-grid-snake.svg)
 
 ---
 
