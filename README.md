@@ -5,9 +5,9 @@ I build backend systems in Java, Spring Boot & Go.
 ---
 
 ## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=SharkBlocks00&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://bob-tawny.vercel.app/api?username=SharkBlocks00&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=SharkBlocks00&layout=compact&theme=tokyonight)
+![Top Languages](https://bob-tawny.vercel.app/api/top-langs?username=SharkBlocks00&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -31,12 +31,7 @@ I build backend systems in Java, Spring Boot & Go.
 ---
 
 ## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=SharkBlocks00&theme=tokyonight&column=6)
-
----
-
-## 🐍 Contribution Snake
-![snake](https://raw.githubusercontent.com/SharkBlocks00/SharkBlocks00/output/github-contribution-grid-snake.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SharkBlocks00&theme=tokyonight&no-frame=true&column=5&title=Commit,Repositories,Stars,PullRequest,Experience)
 
 ---
 
